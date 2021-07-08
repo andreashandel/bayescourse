@@ -1,0 +1,51 @@
+---
+title: Syllabus
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+## Course Information
+
+* Instructors: Andreas Handel
+* Course Meeting Time and Location: TBD
+
+## Textbook and Other Course Material
+
+All course materials will be provided on, or linked through this website. We will use the R software, which is freely available for download. 
+
+## Course Description
+
+To come
+
+## Grading
+
+TBD
+
+## Class Attendance
+
+TBD
+
+## Prerequisites
+
+Basic familiarity with statistics and R. Willingness to spend time working through the materials.
+
+
+## Getting Help
+
+If you have questions about any aspect of the course, please do not hesitate to ask for help. The course materials describe in detail the ways you can ask for help. See the __Communication__ section for more details.
+
+
+## Course Outline
+
+For an outline of the course, please see the course __Schedule__ document. 
+
+
+## More Details
+
+Read through the rest of this website to learn all about the logistic details you need to know.

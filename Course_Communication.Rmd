@@ -1,0 +1,31 @@
+---
+title: Course Communications
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+#bibliography: ../media/SMICourse.bib
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+```{r, echo = FALSE}
+#just so I can use emoticons
+#devtools::install_github("hadley/emo")
+library(emo)
+```
+
+
+We will be using the following communication tools and methods.
+
+
+# Asynchronous communication
+
+
+# Synchronous communication
+
+
+

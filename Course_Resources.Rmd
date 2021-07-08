@@ -1,0 +1,49 @@
+---
+title: Course Resources
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+output: 
+  html_document:
+      toc: FALSE
+---
+
+
+```{r, echo = FALSE}
+#just so I can use emoticons
+#devtools::install_github("hadley/emo")
+library(emo)
+```
+
+
+This page lists resources and materials that we'll be using in the course. At the bottom, we point you to further resources that might be of interest.
+
+Note that some of the listed resources are dynamic and ever changing. That means occasionally links might not work, sites go offline, chapters in online books get re-arranged, etc. If you notice anything that's not quite right, let us know.
+
+
+## Books
+
+* [Statistical Rethinking (SR)](https://xcelab.net/rm/statistical-rethinking/)
+
+* [brms verions of SR](https://bookdown.org/content/4857/)
+
+* [Bayes Rules!](https://www.bayesrulesbook.com/)
+
+
+## Software
+
+* R packages: [brms](https://paul-buerkner.github.io/brms/), [rethinking](https://github.com/rmcelreath/rethinking), [bayesrules](https://bayes-rules.github.io/bayesrules/docs/).
+
+
+## Getting help
+
+* The main place to get any course specific help are the Slack channels in our course workspace. Use them widely to ask questions, to answer others' questions, to post links to interesting resources, etc. 
+* There will very likely be times when some material in the course doesn't quite make sense and you need to do some auxiliary reading. Google will be your best friend. Wikipedia is often a very good starting point for many topics. 
+
+
+
+# Further Resources
+
+
+

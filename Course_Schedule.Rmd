@@ -1,0 +1,18 @@
+---
+title: Course Schedule
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+#bibliography: ../media/SMICourse.bib
+output: 
+  html_document:
+    toc: FALSE
+---
+
+This is the schedule for the course. From here, you can access all instructions and materials to help you prepare. 
+
+**This schedule is subject to change, so check regularly for updates.**
+
+Course schedule TBD
+
