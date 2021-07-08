@@ -35,6 +35,17 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 * R packages: [brms](https://paul-buerkner.github.io/brms/), [rethinking](https://github.com/rmcelreath/rethinking), [bayesrules](https://bayes-rules.github.io/bayesrules/docs/).
 
+## Courses
+
+* [Stats 115 - Introduction to Bayesian Data Analysis](https://www.stats115.com/) - Course based on Bayes Rules! book.
+
+
+## Other
+
+* [Undergraduate Bayesian Education](https://undergrad-bayes.netlify.app/) - resources related to Bayes Rules! and more.
+
+* [Open Intro](https://www.openintro.org/) - Several free online stats courses. Not bayesian.
+
 
 ## Getting help
 
@@ -43,7 +54,7 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 
 
-# Further Resources
+## Further Resources
 
 
 
